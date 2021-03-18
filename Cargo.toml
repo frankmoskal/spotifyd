@@ -12,7 +12,7 @@ alsa = { version = "0.3", optional = true }
 chrono = "0.4"
 dbus = { version = "0.6", optional = true }
 dbus-tokio = { version = "0.2", optional = true }
-failure = "0.1.7"
+failure = "0.1.8"
 fern = { version = "0.6.0", features = ["syslog-4"] }
 futures = "0.1"
 gethostname = "0.2.0"
@@ -30,7 +30,7 @@ tokio-core = "0.1"
 tokio-io = "0.1"
 tokio-signal = "0.1"
 url = "1.7"
-directories = "2.0.2"
+directories = "3.0.1"
 librespot = { version = "0.1.5", default-features = false, features = ["with-tremor"] }
 toml = "0.5.8"
 color-eyre = "0.5"
